@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+data_processed/
+data_raw/
+*.csv
+*.tif
+*.gpkg
+
+*.aux
+*.log
+*.out
