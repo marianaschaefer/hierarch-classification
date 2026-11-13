@@ -28,3 +28,7 @@ scripts/
 ├── visualization/          # figure generation scripts
 └── legacy/                 # exploratory or archived scripts not used in the final pipeline
 
+
+## Revision (JSTARS-2026-03945)
+
+The analyses added in the revision of the JSTARS manuscript, with fold assignments and out-of-fold predictions, are in [`revision_jstars/`](revision_jstars/README.md).
