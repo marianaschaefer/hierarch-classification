@@ -35,13 +35,15 @@ Run the scripts from this folder (`revision_jstars/`) after `mkdir -p outputs/fi
 | `14_threshold_and_strategy_analysis.py` | Tables of thresholds, purity ranges, strategies and audit agreement with CIs | IV-C, IV-D, Tables VII–X |
 | `15_model_comparison_run.py`, `16_model_comparison_stats.py` | RF flat, XGBoost flat and hierarchical with identical folds; ablation; block bootstrap; Nadeau–Bengio tests with Holm | IV-G, IV-H, Tables XIV–XVI |
 | `17_tables_and_figures.py` | Figures and class-wise tables | Figs. 6–9, Table IX |
+| `18_gee_verification_s2_embeddings.js` | Earth Engine check of the Sentinel-2 product (L2A vs L1C, compositing alternatives) and of the embedding aggregation (mean vs median) on 33 polygons listed in `results/tables/gee_verification_polygons.csv` | III-B, Supplementary |
+| `19_second_interpreter_and_imagery_dates.py` | Second-interpreter agreement (Cohen's kappa) and sensitivity of the audit to the availability of 2023 imagery | III-I, IV-F, V-G |
 
 ## Results
 
 - `results/folds/`: fold assignments (`folds_spatial.csv` for the full dataset, `st_folds.csv` for the filtered dataset of the model comparison).
 - `results/pureza_v2.csv`: purity per polygon.
 - `results/predictions/`: out-of-fold predictions of every experiment (gzip CSV).
-- `results/audit/`: blind audit protocol, form and polygons, and the unblinded results.
+- `results/audit/`: blind audit protocol, form and polygons, the unblinded results, the second interpreter's labels (`second_interpreter_labels.csv`) and the 2023 imagery check (`imagery_2023_check.csv`).
 - `results/tables/`: tables reported in the manuscript and Supplementary Material.
 
 ## Note on band names
