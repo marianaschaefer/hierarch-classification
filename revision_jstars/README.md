@@ -6,7 +6,7 @@ Analyses were run with Python 3.13 and the package versions in `requirements.txt
 
 ## Data
 
-Download the QFGeo-LULC dataset from Zenodo (<https://doi.org/10.5281/zenodo.20927225>) and place it under `data/`:
+Download the QFGeo-LULC dataset from Zenodo (concept DOI, all versions: <https://doi.org/10.5281/zenodo.20927224>; use version 2.0.0, <https://doi.org/10.5281/zenodo.24374906>, or later, which includes the corrected indices and the manual-sample attributes as `v2_*` files) and place it under `data/`:
 
 | Path expected by the scripts | Content |
 |---|---|
