@@ -1,0 +1,32 @@
+test                      impuros(P<0.6)  puros(P>=0.6)  todos
+variant                                                       
+DF_relabel_dom_filtro0.6           0.176          0.757  0.395
+D_relabel_dom                      0.170          0.775  0.398
+F_pureza0.6                        0.226          0.773  0.428
+R_bruto                            0.370          0.721  0.536
+                 variant  f1_macro  f1_lo  f1_hi  bal_acc   acc
+DF_relabel_dom_filtro0.6     0.395  0.383  0.405    0.388 0.443
+           D_relabel_dom     0.398  0.386  0.408    0.382 0.442
+             F_pureza0.6     0.428  0.417  0.439    0.427 0.465
+                 R_bruto     0.536  0.526  0.545    0.526 0.530
+variant              DF_relabel_dom_filtro0.6  ...  R_bruto
+classe                                         ...         
+Afloramento Rochoso                      0.42  ...     0.55
+Agricultura                              0.24  ...     0.37
+Eucalipto                                0.49  ...     0.65
+Formação Campestre                       0.32  ...     0.44
+Mata                                     0.53  ...     0.58
+Mineração                                0.42  ...     0.40
+Pastagem                                 0.55  ...     0.58
+Rios e Lagoas                            0.37  ...     0.72
+Solo Exposto                             0.04  ...     0.47
+Área Urbana                              0.55  ...     0.60
+
+[10 rows x 4 columns]
+ scheme                        A             B  dif_f1_B_menos_A     lo    hi
+spatial DF_relabel_dom_filtro0.6 D_relabel_dom             0.003 -0.003 0.009
+spatial DF_relabel_dom_filtro0.6   F_pureza0.6             0.033  0.028 0.040
+spatial DF_relabel_dom_filtro0.6       R_bruto             0.142  0.133 0.152
+spatial            D_relabel_dom   F_pureza0.6             0.030  0.023 0.038
+spatial            D_relabel_dom       R_bruto             0.139  0.128 0.149
+spatial              F_pureza0.6       R_bruto             0.108  0.099 0.119

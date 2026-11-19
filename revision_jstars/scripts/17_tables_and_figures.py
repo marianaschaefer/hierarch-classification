@@ -17,7 +17,7 @@ def perclass(df,y,p,label,classes):
         bs.append(precision_recall_fscore_support(g[y],g[p],labels=classes,zero_division=0)[2])
     bs=np.array(bs); lo,hi=np.percentile(bs,2.5,axis=0),np.percentile(bs,97.5,axis=0)
     return pd.DataFrame({"class":[EN[c] for c in classes],"strategy":label,"precision":base[0],"recall":base[1],"f1":base[2],"f1_lo":lo,"f1_hi":hi,"support":base[3]})
-n12=pd.read_csv(O+"n12_outer.csv"); d=pd.read_csv(O+"d_outer.csv")
+n12=pd.read_csv(O+"n300_outer.csv"); d=pd.read_csv(O+"r300_outer.csv"); d=d[d.variant=="D_relabel_dom"]
 C10=sorted(n12.y_point.unique())
 R=n12[n12.tau==0]; Fi=n12[n12.tau==0.6]
 full=pd.concat([perclass(R,"y_point","pred","Point labels",C10),perclass(Fi,"y_point","pred","Filter 0.6",C10),perclass(d,"y_point","pred","Dominant relabel",C10)])
@@ -47,7 +47,7 @@ for i,v in enumerate(g["ret"]): axs[1].text(v+2,i,f"{v:.0f}",va="center",fontsiz
 fig.tight_layout(); fig.savefig(F+"fig05_purity_retention_by_class.pdf"); plt.close()
 # curva de limiar
 taus=[0,0.5,0.6,0.7,0.8,0.9]
-nm=pd.read_csv(O+"n12_manual.csv")
+nm=pd.read_csv(O+"n300_manual.csv")
 man_f=[f1_score(nm[nm.tau==t].y7,nm[nm.tau==t].pred7,average="macro") for t in taus]
 pt=[f1_score(n12[n12.tau==t].y_point,n12[n12.tau==t].pred,average="macro") for t in taus]
 dm=[f1_score(n12[n12.tau==t].y_dom,n12[n12.tau==t].pred,average="macro") for t in taus]

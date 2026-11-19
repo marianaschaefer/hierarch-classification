@@ -1,0 +1,51 @@
+n polígonos filtrados: 6206 | classes: 10
+
+=== Métricas agregadas (predições fora-da-amostra) com IC95% por bootstrap de blocos de 10 km (155 blocos) ===
+RF_flat        f1_macro 0.757 [0.740,0.772]  bal_acc 0.760 [0.745,0.775]  acc 0.868 [0.857,0.878]  kappa 0.834 [0.823,0.846]
+XGB_flat       f1_macro 0.777 [0.759,0.794]  bal_acc 0.766 [0.750,0.782]  acc 0.888 [0.878,0.898]  kappa 0.859 [0.847,0.870]
+XGB_hier       f1_macro 0.774 [0.755,0.791]  bal_acc 0.760 [0.743,0.777]  acc 0.883 [0.873,0.893]  kappa 0.852 [0.840,0.864]
+ABL_embeddings f1_macro 0.757 [0.740,0.774]  bal_acc 0.743 [0.726,0.760]  acc 0.868 [0.857,0.879]  kappa 0.833 [0.821,0.845]
+ABL_espectrais f1_macro 0.742 [0.725,0.756]  bal_acc 0.726 [0.710,0.741]  acc 0.856 [0.845,0.868]  kappa 0.818 [0.806,0.832]
+
+=== Friedman entre os 3 modelos (por fold; descritivo, folds não são independentes) ===
+f1_macro  chi2=2.60 p=0.2725
+bal_acc   chi2=0.80 p=0.6703
+acc       chi2=13.28 p=0.0013
+kappa     chi2=11.40 p=0.0033
+
+=== Diferenças pareadas (A − B): média por fold, IC95% de blocos (métrica agregada), t corrigido de Nadeau–Bengio e Wilcoxon, ambos com Holm ===
+
+[f1_macro]
+                par  dif_agregada   ic_lo  ic_hi   p_NB  p_wilcoxon  p_NB_holm  p_wilc_holm
+ XGB_flat − RF_flat        0.0204  0.0056 0.0366 0.0557      0.0273     0.1670       0.0820
+ XGB_hier − RF_flat        0.0170  0.0007 0.0331 0.1666      0.0645     0.3331       0.1289
+XGB_hier − XGB_flat       -0.0034 -0.0158 0.0087 0.8231      0.7695     0.8231       0.7695
+
+[bal_acc]
+                par  dif_agregada   ic_lo  ic_hi   p_NB  p_wilcoxon  p_NB_holm  p_wilc_holm
+ XGB_flat − RF_flat        0.0062 -0.0071 0.0208 0.4348      0.2754        1.0       0.8262
+ XGB_hier − RF_flat       -0.0004 -0.0152 0.0144 0.9372      1.0000        1.0       1.0000
+XGB_hier − XGB_flat       -0.0066 -0.0171 0.0036 0.5959      0.4922        1.0       0.9844
+
+[acc]
+                par  dif_agregada   ic_lo   ic_hi   p_NB  p_wilcoxon  p_NB_holm  p_wilc_holm
+ XGB_flat − RF_flat        0.0205  0.0140  0.0272 0.0027      0.0039     0.0081       0.0117
+ XGB_hier − RF_flat        0.0151  0.0093  0.0214 0.0076      0.0059     0.0153       0.0117
+XGB_hier − XGB_flat       -0.0053 -0.0096 -0.0007 0.1735      0.0840     0.1735       0.0840
+
+[kappa]
+                par  dif_agregada   ic_lo   ic_hi   p_NB  p_wilcoxon  p_NB_holm  p_wilc_holm
+ XGB_flat − RF_flat        0.0241  0.0161  0.0325 0.0034      0.0039     0.0101       0.0117
+ XGB_hier − RF_flat        0.0173  0.0100  0.0252 0.0119      0.0059     0.0239       0.0117
+XGB_hier − XGB_flat       -0.0068 -0.0122 -0.0009 0.1683      0.0645     0.1683       0.0645
+
+=== Equivalência flat vs hierárquico (XGB), macro-F1, margem ±0,02: IC90% de blocos da diferença ===
+dif -0.003  IC90% [-0.014,+0.007]  dentro de ±0,02? SIM (equivalentes nessa margem)
+
+=== Ablação (XGB hierárquico, base filtrada): macro-F1 e diferenças pareadas (IC95% de blocos) ===
+XGB_hier − ABL_espectrais [f1_macro]: +0.032 [+0.015,+0.050]
+XGB_hier − ABL_espectrais [bal_acc]: +0.034 [+0.018,+0.051]
+XGB_hier − ABL_embeddings [f1_macro]: +0.016 [+0.004,+0.029]
+XGB_hier − ABL_embeddings [bal_acc]: +0.017 [+0.006,+0.029]
+ABL_embeddings − ABL_espectrais [f1_macro]: +0.016 [-0.002,+0.035]
+ABL_embeddings − ABL_espectrais [bal_acc]: +0.017 [-0.001,+0.035]

@@ -1,0 +1,61 @@
+audit_id,sab_id,vs,vm
+A143,S01,pastagem,formacao campestre
+A267,S02,pastagem,formacao campestre
+A207,S03,rios e lagoas,rios e lagoas
+A127,S04,rios e lagoas,rios e lagoas
+A182,S05,mata,formacao campestre
+A299,S06,solo exposto,afloramento rochoso
+A274,S07,indeterminado,formacao campestre
+A016,S08,rios e lagoas,rios e lagoas
+A111,S09,mata,formacao campestre
+A259,S10,rios e lagoas,rios e lagoas
+A107,S11,indeterminado,area urbana
+A253,S12,mineracao,afloramento rochoso
+A001,S13,area urbana,area urbana
+A226,S14,mata,formacao campestre
+A054,S15,solo exposto,pastagem
+A215,S16,mata,mata
+A213,S17,area urbana,area urbana
+A241,S18,mata,mata
+A064,S19,indeterminado,solo exposto
+A004,S20,mata,mata
+A159,S21,mata,mata
+A128,S22,mata,mata
+A157,S23,mineracao,mineracao
+A060,S24,pastagem,pastagem
+A045,S25,pastagem,formacao campestre
+A048,S26,mineracao,mineracao
+A079,S27,mata,mata
+A077,S28,pastagem,formacao campestre
+A149,S29,indeterminado,mata
+A072,S30,pastagem,formacao campestre
+A102,S31,indeterminado,formacao campestre
+A210,S32,mata,formacao campestre
+A284,S33,afloramento rochoso,afloramento rochoso
+A242,S34,pastagem,pastagem
+A063,S35,mata,mata
+A136,S36,indeterminado,mineracao
+A112,S37,pastagem,formacao campestre
+A082,S38,indeterminado,mata
+A154,S39,agricultura,pastagem
+A212,S40,mata,mata
+A235,S41,mata,afloramento rochoso
+A277,S42,pastagem,pastagem
+A115,S43,mata,mata
+A228,S44,indeterminado,afloramento rochoso
+A296,S45,agricultura,rios e lagoas
+A125,S46,agricultura,solo exposto
+A133,S47,mata,mata
+A065,S48,mata,mata
+A255,S49,mata,mata
+A038,S50,indeterminado,mata
+A278,S51,pastagem,afloramento rochoso
+A039,S52,mata,mata
+A003,S53,pastagem,pastagem
+A031,S54,mata,indeterminado
+A238,S55,eucalipto,eucalipto
+A170,S56,area urbana,area urbana
+A053,S57,mata,agricultura
+A123,S58,mata,mata
+A292,S59,mata,eucalipto
+A033,S60,mata,mata

@@ -1,0 +1,14 @@
+filtrados: 6206 | espectrais 216 embeddings 64
+  f["y"]=f.classe_nivel2_m
+  R={"Formação Campestre","Pastagem","Solo Exposto","Agricultura","Cerrado"}; f["y1"]=np.where(f.y.isin(R),"Vegetação Rasteira",f.y)
+  bx=np.floor(f.cx/10000).astype(int); by=np.floor(f.cy/10000).astype(int); f["blk"]=pd.factorize(bx.astype(str)+"_"+by.astype(str))[0]
+  f["fold"]=fold; f[["supercells_global","y","y1","blk","fold","cx","cy"]].to_csv(O+"st_folds.csv",index=False)
+{0: 626, 1: 609, 2: 627, 3: 633, 4: 613, 5: 600, 6: 647, 7: 616, 8: 619, 9: 616}
+=== 20:44:49 START python3 scripts/15_model_comparison_run.py
+filtrados: 6206 | espectrais 216 embeddings 64
+  f["y"]=f.classe_nivel2_m
+  R={"Formação Campestre","Pastagem","Solo Exposto","Agricultura","Cerrado"}; f["y1"]=np.where(f.y.isin(R),"Vegetação Rasteira",f.y)
+  bx=np.floor(f.cx/10000).astype(int); by=np.floor(f.cy/10000).astype(int); f["blk"]=pd.factorize(bx.astype(str)+"_"+by.astype(str))[0]
+  f["fold"]=fold; f[["supercells_global","y","y1","blk","fold","cx","cy"]].to_csv(O+"st_folds.csv",index=False)
+{0: 626, 1: 609, 2: 627, 3: 633, 4: 613, 5: 600, 6: 647, 7: 616, 8: 619, 9: 616}
+FIM

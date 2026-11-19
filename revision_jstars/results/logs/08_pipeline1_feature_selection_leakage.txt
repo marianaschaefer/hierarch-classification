@@ -1,0 +1,2 @@
+amostras: 1395  atributos brutos: 224
+FIM P1
