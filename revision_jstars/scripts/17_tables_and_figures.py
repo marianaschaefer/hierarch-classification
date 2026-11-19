@@ -51,11 +51,11 @@ nm=pd.read_csv(O+"n300_manual.csv")
 man_f=[f1_score(nm[nm.tau==t].y7,nm[nm.tau==t].pred7,average="macro") for t in taus]
 pt=[f1_score(n12[n12.tau==t].y_point,n12[n12.tau==t].pred,average="macro") for t in taus]
 dm=[f1_score(n12[n12.tau==t].y_dom,n12[n12.tau==t].pred,average="macro") for t in taus]
-fig,ax=plt.subplots(figsize=(W,2.3))
+fig,ax=plt.subplots(figsize=(W,2.9))
 for v,l,m,c in [(man_f,"Independent manual test (7 classes)","o","#2C7FB8"),(dm,"Full test, dominant-class reference","s","#41AB5D"),(pt,"Full test, point-label reference","^","#E6550D")]:
     ax.plot(taus,v,marker=m,ms=3.5,lw=1.1,label=l,c=c)
-ax.set_xticks(taus); ax.set_xticklabels(["0\n(none)","0.5","0.6","0.7","0.8","0.9"]); ax.set_xlabel(r"Training purity threshold $\tau$"); ax.set_ylabel("Macro-F1"); ax.set_ylim(0.3,0.85)
-ax.legend(frameon=False,fontsize=6.5,loc="center right",bbox_to_anchor=(1.0,0.62)); fig.tight_layout(); fig.savefig(F+"fig02_threshold_curve_rev.pdf"); plt.close()
+ax.set_xticks(taus); ax.set_xticklabels(["0\n(none)","0.5","0.6","0.7","0.8","0.9"]); ax.set_xlabel(r"Training purity threshold $\tau$"); ax.set_ylabel("Macro-F1"); ax.set_ylim(0.3,0.9)
+ax.legend(frameon=False,fontsize=6.5,loc="upper center",bbox_to_anchor=(0.5,-0.38)); fig.subplots_adjust(left=0.15,right=0.97,top=0.97,bottom=0.40); fig.savefig(F+"fig02_threshold_curve_rev.pdf",bbox_inches="tight"); plt.close()
 print("curve manual",np.round(man_f,3),"dom",np.round(dm,3),"pt",np.round(pt,3))
 # matriz de confusão XGB hier (rodada única)
 st=pd.read_csv(O+"st_pred.csv"); h=st[st.model=="XGB_hier"]
