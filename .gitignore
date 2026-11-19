@@ -11,3 +11,8 @@ data_raw/
 *.aux
 *.log
 *.out
+# results of the revision analyses are versioned
+!revision_jstars/results/**/*.csv
+!revision_jstars/results/*.csv
+!revision_jstars/results/**/*.gpkg
+!revision_jstars/results/logs/*.txt

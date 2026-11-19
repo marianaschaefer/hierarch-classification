@@ -1,0 +1,4 @@
+P2 handcrafted: 216
+faltando no manual: [] 0 | sobrando: 0
+id_ -> classe confere com o shapefile: 1.0 de 1395
+manuais: 1395 | blocos novos (sem polígono automático): 12 | por fold: [168, 110, 131, 149, 182, 158, 135, 117, 131, 114]

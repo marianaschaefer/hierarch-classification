@@ -1,0 +1,50 @@
+=== START 07_manual_test_analysis
+variant
+DF_relabel_dom_filtro0.6    1395
+D_relabel_dom               1395
+F_pureza0.6                 1395
+M_manual                    1395
+R_bruto                     1395
+Name: id_, dtype: int64
+n comum 1395
+
+macro-F1 / bal.acc (IC95% bootstrap por fold-bloco)
+R_bruto                    F1 0.864 [0.839,0.885]  BA 0.862 [0.840,0.886]
+F_pureza0.6                F1 0.849 [0.825,0.872]  BA 0.851 [0.829,0.875]
+D_relabel_dom              F1 0.816 [0.789,0.836]  BA 0.817 [0.792,0.840]
+DF_relabel_dom_filtro0.6   F1 0.827 [0.803,0.847]  BA 0.829 [0.809,0.851]
+M_manual                   F1 0.930 [0.915,0.946]  BA 0.930 [0.916,0.947]
+
+diferenças pareadas macro-F1 vs R_bruto
+F_pureza0.6                -0.014 [-0.034,+0.007]
+D_relabel_dom              -0.048 [-0.074,-0.020]
+DF_relabel_dom_filtro0.6   -0.037 [-0.059,-0.012]
+M_manual                   +0.066 [+0.046,+0.083]
+
+M_manual vs R_bruto, F, D
+M - R_bruto         +0.066 [+0.046,+0.083]
+M - F_pureza0.6     +0.080 [+0.057,+0.105]
+M - D_relabel_dom   +0.114 [+0.090,+0.143]
+
+F1 por classe
+variant              R_bruto  F_pureza0.6  ...  DF_relabel_dom_filtro0.6  M_manual
+classe                                     ...                                    
+Afloramento Rochoso    0.785        0.764  ...                     0.712     0.945
+Eucalipto              0.949        0.922  ...                     0.921     0.944
+Mata                   0.867        0.839  ...                     0.832     0.916
+Mineração              0.835        0.907  ...                     0.910     0.920
+Rios e Lagoas          0.866        0.759  ...                     0.704     0.910
+Vegetação Rasteira     0.773        0.807  ...                     0.762     0.920
+Área Urbana            0.970        0.949  ...                     0.947     0.955
+
+[7 rows x 5 columns]
+classe
+Afloramento Rochoso    190
+Eucalipto              200
+Mata                   200
+Mineração              204
+Rios e Lagoas          200
+Vegetação Rasteira     201
+Área Urbana            200
+Name: n, dtype: int64
+=== END 07_manual_test_analysis rc=0

@@ -1,0 +1,301 @@
+audit_id,supercells_global,classe_atribuida,faixa,P_label,dominante_mapbiomas,P_dominante,n_px,ass,dom,vis,mistura_visual,mudanca_2021_2023,observacao,faixa3
+A001,tile1_16754.0,Solo Exposto,media(0.4-0.6),0.4,Solo Exposto,0.4,25,solo exposto,solo exposto,area urbana,50-80,n,tem um estacionamento q parece solo exposto,media
+A002,tile3_61004.0,Agricultura,alta(>=0.6),0.6170212765957447,Agricultura,0.6170212765957447,47,agricultura,agricultura,formacao campestre,50-80,n,,alta
+A003,tile2_34190.0,Mineração,baixa(<0.4),0.1041666666666666,Pastagem,0.65625,96,mineracao,pastagem,pastagem,>80,n,,baixa
+A004,tile2_23093.0,Eucalipto,baixa(<0.4),0.3076923076923077,Mata,0.3846153846153846,13,eucalipto,mata,mata,>80,n,,baixa
+A005,tile1_48125.0,Formação Campestre,alta(>=0.6),0.749185667752443,Formação Campestre,0.749185667752443,307,formacao campestre,formacao campestre,formacao campestre,>80,n,,alta
+A006,tile4_20115.0,Área Urbana,media(0.4-0.6),0.5862068965517241,Área Urbana,0.5862068965517241,29,area urbana,area urbana,area urbana,50-80,n,muitas classes misturadas,media
+A007,tile1_18595.0,Pastagem,alta(>=0.6),0.76,Pastagem,0.76,25,pastagem,pastagem,agricultura,50-80,n,muitas classes misturadas,alta
+A008,tile4_48998.0,Solo Exposto,baixa(<0.4),0.1372549019607843,Mata,0.4509803921568627,51,solo exposto,mata,mata,50-80,n,muitas classes misturadas,baixa
+A009,tile3_10455.0,Agricultura,baixa(<0.4),0.1509433962264151,Pastagem,0.8349056603773585,212,agricultura,pastagem,formacao campestre,>80,n,mistura com pastagem,baixa
+A010,tile3_47793.0,Mineração,alta(>=0.6),0.9949494949494948,Mineração,0.9949494949494948,198,mineracao,mineracao,mineracao,>80,n,,alta
+A011,tile2_15101.0,Eucalipto,alta(>=0.6),0.9473684210526316,Eucalipto,0.9473684210526316,76,eucalipto,eucalipto,mata,>80,n,,alta
+A012,tile1_9878.0,Rios e Lagoas,alta(>=0.6),0.9934640522875816,Rios e Lagoas,0.9934640522875816,306,rios e lagoas,rios e lagoas,rios e lagoas,>80,n,,alta
+A013,tile3_71325.0,Solo Exposto,alta(>=0.6),0.7592592592592593,Solo Exposto,0.7592592592592593,54,solo exposto,solo exposto,formacao campestre,50-80,n,muitas classes misturadas,alta
+A014,tile2_5289.0,Formação Campestre,media(0.4-0.6),0.4375,Pastagem,0.5625,16,formacao campestre,pastagem,formacao campestre,>80,n,,media
+A015,tile2_75313.0,Área Urbana,baixa(<0.4),0.0347222222222222,Mata,0.59375,288,area urbana,mata,mata,>80,n,,baixa
+A016,tile4_19436.0,Rios e Lagoas,media(0.4-0.6),0.5172413793103449,Rios e Lagoas,0.5172413793103449,29,rios e lagoas,rios e lagoas,rios e lagoas,>80,s,"era mata e formação campestre e virou um lago, estranho",media
+A017,tile4_53736.0,Afloramento Rochoso,baixa(<0.4),0.0840336134453781,Agricultura,0.8151260504201681,119,afloramento rochoso,agricultura,formacao campestre,>80,n,,baixa
+A018,tile2_18163.0,Eucalipto,alta(>=0.6),0.7818181818181819,Eucalipto,0.7818181818181819,55,eucalipto,eucalipto,mata,>80,n,,alta
+A019,tile1_28834.0,Área Urbana,alta(>=0.6),1.0,Área Urbana,1.0,21,area urbana,area urbana,area urbana,>80,n,,alta
+A020,tile3_55321.0,Mineração,alta(>=0.6),0.9302325581395348,Mineração,0.9302325581395348,86,mineracao,mineracao,mineracao,50-80,n,,alta
+A021,tile4_37606.0,Formação Campestre,baixa(<0.4),0.1521739130434782,Mata,0.6956521739130435,46,formacao campestre,mata,formacao campestre,50-80,n,,baixa
+A022,tile4_65072.0,Formação Campestre,baixa(<0.4),0.1354166666666666,Pastagem,0.6875,96,formacao campestre,pastagem,formacao campestre,50-80,n,,baixa
+A023,tile2_48059.0,Pastagem,media(0.4-0.6),0.4492753623188406,Mata,0.5507246376811594,69,pastagem,mata,mata,50-80,n,,media
+A024,tile3_46413.0,Área Urbana,baixa(<0.4),0.3770491803278688,Área Urbana,0.3770491803278688,122,area urbana,area urbana,formacao campestre,50-80,n,"tem ruas, mas não tem quase nenhuma construção",baixa
+A025,tile3_14183.0,Eucalipto,media(0.4-0.6),0.4285714285714285,Agricultura,0.5714285714285714,14,eucalipto,agricultura,eucalipto,>80,s,,media
+A026,tile4_15561.0,Área Urbana,alta(>=0.6),0.8846153846153846,Área Urbana,0.8846153846153846,26,area urbana,area urbana,area urbana,>80,n,,alta
+A027,tile3_3751.0,Mata,alta(>=0.6),0.8455882352941176,Mata,0.8455882352941176,272,mata,mata,mata,>80,n,,alta
+A028,tile4_31277.0,Formação Campestre,media(0.4-0.6),0.5625,Formação Campestre,0.5625,48,formacao campestre,formacao campestre,pastagem,50-80,n,,media
+A029,tile4_50853.0,Eucalipto,baixa(<0.4),0.0571428571428571,Mata,0.6857142857142857,35,eucalipto,mata,mata,>80,n,,baixa
+A030,tile2_62788.0,Formação Campestre,media(0.4-0.6),0.4054054054054054,Formação Campestre,0.4054054054054054,37,formacao campestre,formacao campestre,mata,50-80,n,,media
+A031,tile1_350.0,Eucalipto,alta(>=0.6),0.7575757575757576,Eucalipto,0.7575757575757576,33,eucalipto,eucalipto,indeterminado,>80,n,"estou na dúvida se é mata ou eucalipto, preferi não colocar",alta
+A032,tile2_11735.0,Afloramento Rochoso,media(0.4-0.6),0.5,Mata,0.5,18,afloramento rochoso,mata,formacao campestre,50-80,n,,media
+A033,tile4_35734.0,Mata,alta(>=0.6),0.8863636363636364,Mata,0.8863636363636364,44,mata,mata,mata,>80,n,,alta
+A034,tile2_40038.0,Mineração,media(0.4-0.6),0.4444444444444444,Mata,0.5555555555555556,18,mineracao,mata,mineracao,50-80,n,,media
+A035,tile2_66955.0,Mineração,media(0.4-0.6),0.5725806451612904,Mineração,0.5725806451612904,124,mineracao,mineracao,mineracao,50-80,n,,media
+A036,tile3_3206.0,Área Urbana,baixa(<0.4),0.131578947368421,Pastagem,0.5394736842105263,76,area urbana,pastagem,pastagem,50-80,n,,baixa
+A037,tile2_33099.0,Afloramento Rochoso,baixa(<0.4),0.3253012048192771,Mata,0.6746987951807228,83,afloramento rochoso,mata,afloramento rochoso,50-80,n,mistura com mata,baixa
+A038,tile4_89173.0,Mata,alta(>=0.6),0.8931297709923665,Mata,0.8931297709923665,131,mata,mata,mata,50-80,n,,alta
+A039,tile1_142.0,Agricultura,alta(>=0.6),0.7058823529411765,Agricultura,0.7058823529411765,17,agricultura,agricultura,mata,>80,n,,alta
+A040,tile2_58823.0,Mineração,media(0.4-0.6),0.4615384615384615,Agricultura,0.5,26,mineracao,agricultura,mata,>80,n,,media
+A041,tile4_5703.0,Área Urbana,media(0.4-0.6),0.509090909090909,Área Urbana,0.509090909090909,55,area urbana,area urbana,area urbana,50-80,n,,media
+A042,tile4_32259.0,Rios e Lagoas,alta(>=0.6),0.911917098445596,Rios e Lagoas,0.911917098445596,579,rios e lagoas,rios e lagoas,rios e lagoas,>80,n,,alta
+A043,tile1_25001.0,Área Urbana,media(0.4-0.6),0.5,Agricultura,0.5,14,area urbana,agricultura,solo exposto,>80,s,em 2023 passou a ser formação campestre (tinha arvores crescendo),media
+A044,tile2_5599.0,Formação Campestre,alta(>=0.6),0.6867469879518072,Formação Campestre,0.6867469879518072,83,formacao campestre,formacao campestre,formacao campestre,>80,n,,alta
+A045,tile3_66752.0,Formação Campestre,media(0.4-0.6),0.46,Formação Campestre,0.46,50,formacao campestre,formacao campestre,formacao campestre,>80,n,,media
+A046,tile4_28699.0,Pastagem,alta(>=0.6),0.9470198675496688,Pastagem,0.9470198675496688,151,pastagem,pastagem,pastagem,>80,n,,alta
+A047,tile1_44303.0,Mata,media(0.4-0.6),0.5682819383259912,Mata,0.5682819383259912,227,mata,mata,mata,>80,n,,media
+A048,tile3_49982.0,Mineração,media(0.4-0.6),0.4251497005988024,Formação Campestre,0.5149700598802395,167,mineracao,formacao campestre,mineracao,50-80,n,,media
+A049,tile4_44388.0,Eucalipto,baixa(<0.4),0.1072210065645514,Mata,0.8774617067833698,457,eucalipto,mata,mata,>80,n,,baixa
+A050,tile3_65304.0,Pastagem,media(0.4-0.6),0.4347826086956521,Pastagem,0.4347826086956521,23,pastagem,pastagem,mata,50-80,n,,media
+A051,tile2_28610.0,Afloramento Rochoso,media(0.4-0.6),0.45,Mata,0.55,20,afloramento rochoso,mata,mata,50-80,n,mistura com afloramento rochoso,media
+A052,tile3_66641.0,Solo Exposto,baixa(<0.4),0.008695652173913,Área Urbana,0.991304347826087,115,solo exposto,area urbana,area urbana,>80,n,,baixa
+A053,tile4_11344.0,Eucalipto,media(0.4-0.6),0.4181818181818181,Eucalipto,0.4181818181818181,55,eucalipto,eucalipto,agricultura,>80,n,,media
+A054,tile4_22596.0,Área Urbana,media(0.4-0.6),0.4736842105263157,Pastagem,0.5,38,area urbana,pastagem,pastagem,50-80,n,,media
+A055,tile4_26471.0,Área Urbana,baixa(<0.4),0.2542372881355932,Pastagem,0.6949152542372882,59,area urbana,pastagem,pastagem,50-80,n,,baixa
+A056,tile3_44114.0,Mineração,alta(>=0.6),0.6206896551724138,Mineração,0.6206896551724138,29,mineracao,mineracao,mineracao,50-80,n,,alta
+A057,tile1_37718.0,Rios e Lagoas,alta(>=0.6),0.7272727272727273,Rios e Lagoas,0.7272727272727273,11,rios e lagoas,rios e lagoas,rios e lagoas,50-80,n,,alta
+A058,tile3_14287.0,Solo Exposto,media(0.4-0.6),0.4,Rios e Lagoas,0.5333333333333333,30,solo exposto,rios e lagoas,solo exposto,50-80,n,"classe misturada, rio, cachoeira, solo exposto, mata...",media
+A059,tile3_37286.0,Rios e Lagoas,baixa(<0.4),0.123076923076923,Mata,0.4769230769230769,65,rios e lagoas,mata,mata,<50,n,"classe misturada, rio, campestre, mata...",baixa
+A060,tile4_67240.0,Mineração,alta(>=0.6),0.8181818181818182,Mineração,0.8181818181818182,44,mineracao,mineracao,pastagem,50-80,n,,alta
+A061,tile2_34536.0,Afloramento Rochoso,alta(>=0.6),0.8045977011494253,Afloramento Rochoso,0.8045977011494253,261,afloramento rochoso,afloramento rochoso,pastagem,>80,n,,alta
+A062,tile4_7798.0,Rios e Lagoas,alta(>=0.6),0.7666666666666667,Rios e Lagoas,0.7666666666666667,60,rios e lagoas,rios e lagoas,rios e lagoas,50-80,n,,alta
+A063,tile2_58060.0,Solo Exposto,alta(>=0.6),0.6111111111111112,Solo Exposto,0.6111111111111112,18,solo exposto,solo exposto,mata,50-80,n,metade mata metade mineração,alta
+A064,tile3_54486.0,Solo Exposto,baixa(<0.4),0.1834862385321101,Agricultura,0.6422018348623854,109,solo exposto,agricultura,solo exposto,50-80,n,classe misturada,baixa
+A065,tile3_4075.0,Mata,media(0.4-0.6),0.4117647058823529,Agricultura,0.5882352941176471,17,mata,agricultura,mata,>80,n,,media
+A066,tile4_8084.0,Solo Exposto,alta(>=0.6),0.6470588235294118,Solo Exposto,0.6470588235294118,17,solo exposto,solo exposto,solo exposto,50-80,n,,alta
+A067,tile2_6248.0,Pastagem,baixa(<0.4),0.3898809523809524,Formação Campestre,0.4851190476190476,336,pastagem,formacao campestre,formacao campestre,>80,n,,baixa
+A068,tile3_57195.0,Formação Campestre,baixa(<0.4),0.0227272727272727,Pastagem,0.6022727272727273,88,formacao campestre,pastagem,pastagem,>80,n,,baixa
+A069,tile4_7129.0,Formação Campestre,alta(>=0.6),0.75,Formação Campestre,0.75,20,formacao campestre,formacao campestre,formacao campestre,50-80,n,,alta
+A070,tile2_66729.0,Eucalipto,alta(>=0.6),0.9856115107913668,Eucalipto,0.9856115107913668,139,eucalipto,eucalipto,eucalipto,>80,n,,alta
+A071,tile2_47069.0,Área Urbana,media(0.4-0.6),0.56,Área Urbana,0.56,50,area urbana,area urbana,area urbana,50-80,n,,media
+A072,tile3_62758.0,Solo Exposto,baixa(<0.4),0.046979865771812,Pastagem,0.6845637583892618,149,solo exposto,pastagem,formacao campestre,50-80,n,classe misturada,baixa
+A073,tile3_61764.0,Formação Campestre,alta(>=0.6),0.8157894736842105,Formação Campestre,0.8157894736842105,76,formacao campestre,formacao campestre,formacao campestre,50-80,n,,alta
+A074,tile3_43494.0,Mineração,alta(>=0.6),0.6818181818181818,Mineração,0.6818181818181818,66,mineracao,mineracao,mineracao,50-80,n,,alta
+A075,tile2_21756.0,Eucalipto,alta(>=0.6),0.82,Eucalipto,0.82,50,eucalipto,eucalipto,mata,>80,n,,alta
+A076,tile2_32617.0,Rios e Lagoas,media(0.4-0.6),0.4951456310679611,Rios e Lagoas,0.4951456310679611,103,rios e lagoas,rios e lagoas,rios e lagoas,50-80,n,muita mistura com mata e pastagem,media
+A077,tile2_14453.0,Afloramento Rochoso,alta(>=0.6),1.0,Afloramento Rochoso,1.0,58,afloramento rochoso,afloramento rochoso,formacao campestre,>80,n,,alta
+A078,tile3_50863.0,Mata,baixa(<0.4),0.0866666666666666,Mineração,0.6933333333333334,150,mata,mineracao,formacao campestre,>80,n,,baixa
+A079,tile3_4884.0,Eucalipto,baixa(<0.4),0.2272727272727272,Mata,0.7727272727272727,22,eucalipto,mata,mata,>80,n,,baixa
+A080,tile4_51324.0,Solo Exposto,baixa(<0.4),0.1176470588235294,Afloramento Rochoso,0.8235294117647058,34,solo exposto,afloramento rochoso,afloramento rochoso,>80,n,alguns anos com nuvens,baixa
+A081,tile3_44339.0,Eucalipto,media(0.4-0.6),0.4736842105263157,Eucalipto,0.4736842105263157,19,eucalipto,eucalipto,eucalipto,>80,s,muda pois existe o corte das arvores,media
+A082,tile4_61095.0,Formação Campestre,baixa(<0.4),0.0416666666666666,Mata,0.5208333333333334,48,formacao campestre,mata,mata,50-80,n,,baixa
+A083,tile3_35084.0,Agricultura,alta(>=0.6),0.8333333333333334,Agricultura,0.8333333333333334,12,agricultura,agricultura,pastagem,50-80,n,metade pastagem metade mata,alta
+A084,tile3_58772.0,Mata,baixa(<0.4),0.0072463768115942,Afloramento Rochoso,0.3478260869565217,138,mata,afloramento rochoso,afloramento rochoso,50-80,n,,baixa
+A085,tile4_95191.0,Pastagem,baixa(<0.4),0.3626943005181347,Mata,0.4145077720207253,193,pastagem,mata,mata,50-80,n,,baixa
+A086,tile4_40132.0,Solo Exposto,media(0.4-0.6),0.4596774193548387,Solo Exposto,0.4596774193548387,124,solo exposto,solo exposto,afloramento rochoso,>80,n,,media
+A087,tile2_1678.0,Eucalipto,baixa(<0.4),0.248,Mata,0.376,127,eucalipto,mata,mata,50-80,n,metade mata metade eucalipto,baixa
+A088,tile3_50850.0,Mineração,alta(>=0.6),1.0,Mineração,1.0,338,mineracao,mineracao,mineracao,>80,n,,alta
+A089,tile2_38770.0,Pastagem,media(0.4-0.6),0.5806451612903226,Pastagem,0.5806451612903226,31,pastagem,pastagem,pastagem,50-80,n,classe misturada,media
+A090,tile3_26483.0,Eucalipto,baixa(<0.4),0.1195652173913043,Mata,0.5,92,eucalipto,mata,mata,50-80,n,,baixa
+A091,tile4_88409.0,Agricultura,baixa(<0.4),0.1897233201581027,Mata,0.4703557312252964,253,agricultura,mata,indeterminado,,n,classe misturada,baixa
+A092,tile3_68448.0,Agricultura,media(0.4-0.6),0.5625,Agricultura,0.5625,48,agricultura,agricultura,formacao campestre,50-80,n,,media
+A093,tile2_22128.0,Mata,alta(>=0.6),1.0,Mata,1.0,39,mata,mata,mata,>80,n,,alta
+A094,tile2_39348.0,Afloramento Rochoso,media(0.4-0.6),0.573170731707317,Afloramento Rochoso,0.573170731707317,164,afloramento rochoso,afloramento rochoso,formacao campestre,50-80,n,,media
+A095,tile3_28989.0,Rios e Lagoas,media(0.4-0.6),0.5384615384615384,Rios e Lagoas,0.5384615384615384,26,rios e lagoas,rios e lagoas,rios e lagoas,50-80,n,,media
+A096,tile4_84903.0,Rios e Lagoas,alta(>=0.6),0.8288590604026845,Rios e Lagoas,0.8288590604026845,298,rios e lagoas,rios e lagoas,rios e lagoas,>80,n,,alta
+A097,tile2_56935.0,Pastagem,alta(>=0.6),0.8412698412698413,Pastagem,0.8412698412698413,63,pastagem,pastagem,agricultura,50-80,n,,alta
+A098,tile3_67108.0,Mineração,baixa(<0.4),0.1904761904761904,Formação Campestre,0.7380952380952381,42,mineracao,formacao campestre,indeterminado,,n,classe misturada,baixa
+A099,tile2_11102.0,Rios e Lagoas,alta(>=0.6),0.6038961038961039,Rios e Lagoas,0.6038961038961039,154,rios e lagoas,rios e lagoas,rios e lagoas,>80,n,,alta
+A100,tile4_47550.0,Formação Campestre,baixa(<0.4),0.0294117647058823,Agricultura,0.5294117647058824,34,formacao campestre,agricultura,mata,>80,n,,baixa
+A101,tile3_71161.0,Pastagem,baixa(<0.4),0.1216931216931216,Formação Campestre,0.6507936507936508,189,pastagem,formacao campestre,formacao campestre,50-80,n,,baixa
+A102,tile4_99418.0,Agricultura,media(0.4-0.6),0.4210526315789473,Agricultura,0.4210526315789473,76,agricultura,agricultura,formacao campestre,<50,n,classe misturada,media
+A103,tile3_53659.0,Solo Exposto,baixa(<0.4),0.22,Mineração,0.74,50,solo exposto,mineracao,mineracao,>80,n,,baixa
+A104,tile3_62514.0,Formação Campestre,alta(>=0.6),0.9545454545454546,Formação Campestre,0.9545454545454546,22,formacao campestre,formacao campestre,mata,50-80,n,,alta
+A105,tile1_27124.0,Solo Exposto,baixa(<0.4),0.1111111111111111,Formação Campestre,0.5,18,solo exposto,formacao campestre,mata,>80,n,,baixa
+A106,tile3_12915.0,Mata,baixa(<0.4),0.0716981132075471,Agricultura,0.6943396226415094,265,mata,agricultura,agricultura,50-80,n,,baixa
+A107,tile3_12806.0,Área Urbana,alta(>=0.6),0.6911764705882353,Área Urbana,0.6911764705882353,68,area urbana,area urbana,area urbana,<50,n,classe misturada,alta
+A108,tile1_12280.0,Mata,baixa(<0.4),0.1621621621621621,Área Urbana,0.8108108108108109,37,mata,area urbana,mata,50-80,n,,baixa
+A109,tile3_65063.0,Área Urbana,media(0.4-0.6),0.425531914893617,Área Urbana,0.425531914893617,47,area urbana,area urbana,pastagem,50-80,n,,media
+A110,tile2_11657.0,Afloramento Rochoso,media(0.4-0.6),0.4,Mata,0.6,40,afloramento rochoso,mata,mata,50-80,n,metade mata metade formação campestre,media
+A111,tile1_15856.0,Afloramento Rochoso,baixa(<0.4),0.1285714285714285,Formação Campestre,0.8,70,afloramento rochoso,formacao campestre,formacao campestre,>80,n,,baixa
+A112,tile1_30645.0,Área Urbana,baixa(<0.4),0.3093922651933701,Formação Campestre,0.580110497237569,181,area urbana,formacao campestre,formacao campestre,50-80,n,,baixa
+A113,tile4_15207.0,Mata,media(0.4-0.6),0.5355191256830601,Mata,0.5355191256830601,183,mata,mata,mata,50-80,n,,media
+A114,tile2_1298.0,Pastagem,media(0.4-0.6),0.5,Formação Campestre,0.5,18,pastagem,formacao campestre,formacao campestre,>80,n,,media
+A115,tile1_29049.0,Mineração,media(0.4-0.6),0.5384615384615384,Mineração,0.5384615384615384,13,mineracao,mineracao,mata,50-80,n,,media
+A116,tile4_85734.0,Pastagem,media(0.4-0.6),0.5714285714285714,Pastagem,0.5714285714285714,28,pastagem,pastagem,formacao campestre,>80,n,,media
+A117,tile2_19886.0,Eucalipto,alta(>=0.6),0.754601226993865,Eucalipto,0.754601226993865,163,eucalipto,eucalipto,eucalipto,50-80,n,,alta
+A118,tile2_15123.0,Solo Exposto,alta(>=0.6),0.6,Solo Exposto,0.6,15,solo exposto,solo exposto,mineracao,>80,n,,alta
+A119,tile3_64748.0,Formação Campestre,baixa(<0.4),0.0851063829787234,Pastagem,0.3829787234042553,94,formacao campestre,pastagem,mata,<50,n,classe misturada,baixa
+A120,tile4_31749.0,Afloramento Rochoso,baixa(<0.4),0.2666666666666666,Eucalipto,0.5888888888888889,90,afloramento rochoso,eucalipto,eucalipto,>80,n,,baixa
+A121,tile2_3416.0,Afloramento Rochoso,alta(>=0.6),0.7857142857142857,Afloramento Rochoso,0.7857142857142857,14,afloramento rochoso,afloramento rochoso,afloramento rochoso,>80,n,,alta
+A122,tile2_28628.0,Afloramento Rochoso,alta(>=0.6),1.0,Afloramento Rochoso,1.0,117,afloramento rochoso,afloramento rochoso,afloramento rochoso,>80,n,,alta
+A123,tile3_25905.0,Mata,baixa(<0.4),0.3623188405797101,Mata,0.3623188405797101,69,mata,mata,mata,50-80,n,,baixa
+A124,tile4_19906.0,Agricultura,alta(>=0.6),0.88,Agricultura,0.88,25,agricultura,agricultura,formacao campestre,50-80,n,,alta
+A125,tile3_58302.0,Solo Exposto,alta(>=0.6),0.7619047619047619,Solo Exposto,0.7619047619047619,21,solo exposto,solo exposto,solo exposto,>80,s,,alta
+A126,tile2_67895.0,Agricultura,alta(>=0.6),0.6634615384615384,Agricultura,0.6634615384615384,104,agricultura,agricultura,eucalipto,>80,n,,alta
+A127,tile1_30274.0,Rios e Lagoas,alta(>=0.6),0.7950310559006211,Rios e Lagoas,0.7950310559006211,161,rios e lagoas,rios e lagoas,rios e lagoas,>80,n,,alta
+A128,tile2_28425.0,Pastagem,baixa(<0.4),0.1818181818181818,Mata,0.7626262626262627,200,pastagem,mata,mata,50-80,n,,baixa
+A129,tile4_70200.0,Solo Exposto,alta(>=0.6),0.6363636363636364,Solo Exposto,0.6363636363636364,22,solo exposto,solo exposto,solo exposto,50-80,s,classe misturada,alta
+A130,tile2_43338.0,Rios e Lagoas,baixa(<0.4),0.0392156862745098,Mata,0.9215686274509804,51,rios e lagoas,mata,mata,50-80,n,,baixa
+A131,tile4_93626.0,Agricultura,baixa(<0.4),0.0769230769230769,Mata,0.7692307692307693,13,agricultura,mata,mata,>80,n,,baixa
+A132,tile2_21121.0,Afloramento Rochoso,baixa(<0.4),0.0428571428571428,Mata,0.7142857142857143,70,afloramento rochoso,mata,mata,>80,n,,baixa
+A133,tile3_60234.0,Mineração,baixa(<0.4),0.3642857142857142,Mata,0.5142857142857142,140,mineracao,mata,mata,50-80,n,,baixa
+A134,tile4_5339.0,Afloramento Rochoso,media(0.4-0.6),0.5416666666666666,Afloramento Rochoso,0.5416666666666666,24,afloramento rochoso,afloramento rochoso,formacao campestre,50-80,n,,media
+A135,tile4_63831.0,Afloramento Rochoso,baixa(<0.4),0.3684210526315789,Afloramento Rochoso,0.3684210526315789,19,afloramento rochoso,afloramento rochoso,formacao campestre,>80,n,,baixa
+A136,tile4_53666.0,Área Urbana,baixa(<0.4),0.0818181818181818,Mineração,0.509090909090909,110,area urbana,mineracao,mineracao,50-80,n,,baixa
+A137,tile3_39370.0,Formação Campestre,baixa(<0.4),0.2727272727272727,Agricultura,0.5454545454545454,11,formacao campestre,agricultura,mata,<50,n,classe misturada,baixa
+A138,tile3_24387.0,Agricultura,baixa(<0.4),0.1926605504587156,Mata,0.7798165137614679,109,agricultura,mata,formacao campestre,>80,n,,baixa
+A139,tile4_24215.0,Formação Campestre,baixa(<0.4),0.225,Pastagem,0.275,40,formacao campestre,pastagem,area urbana,<50,n,classe misturada,baixa
+A140,tile1_39462.0,Área Urbana,alta(>=0.6),0.7906976744186046,Área Urbana,0.7906976744186046,43,area urbana,area urbana,area urbana,>80,n,,alta
+A141,tile3_60626.0,Mineração,alta(>=0.6),0.8372093023255814,Mineração,0.8372093023255814,43,mineracao,mineracao,mineracao,50-80,n,,alta
+A142,tile4_43014.0,Mineração,baixa(<0.4),0.3611111111111111,Afloramento Rochoso,0.4537037037037037,108,mineracao,afloramento rochoso,afloramento rochoso,50-80,n,,baixa
+A143,tile1_48765.0,Pastagem,baixa(<0.4),0.048076923076923,Formação Campestre,0.625,208,pastagem,formacao campestre,formacao campestre,50-80,n,classe misturada,baixa
+A144,tile1_10428.0,Agricultura,media(0.4-0.6),0.5471698113207547,Agricultura,0.5471698113207547,53,agricultura,agricultura,formacao campestre,50-80,n,classe misturada,media
+A145,tile4_17758.0,Área Urbana,alta(>=0.6),0.8125,Área Urbana,0.8125,16,area urbana,area urbana,area urbana,>80,n,,alta
+A146,tile2_50807.0,Agricultura,baixa(<0.4),0.0526315789473684,Pastagem,0.7631578947368421,114,agricultura,pastagem,formacao campestre,50-80,n,,baixa
+A147,tile2_48392.0,Eucalipto,media(0.4-0.6),0.5102040816326531,Eucalipto,0.5102040816326531,98,eucalipto,eucalipto,eucalipto,>80,n,,media
+A148,tile4_89657.0,Rios e Lagoas,baixa(<0.4),0.03,Pastagem,0.63,100,rios e lagoas,pastagem,pastagem,50-80,n,classe misturada,baixa
+A149,tile2_68366.0,Mata,media(0.4-0.6),0.5208333333333334,Mata,0.5208333333333334,48,mata,mata,mata,<50,n,classe misturada,media
+A150,tile2_18338.0,Mata,alta(>=0.6),0.6625766871165644,Mata,0.6625766871165644,163,mata,mata,mata,>80,n,,alta
+A151,tile1_6341.0,Eucalipto,baixa(<0.4),0.1428571428571428,Área Urbana,0.5,14,eucalipto,area urbana,formacao campestre,50-80,n,,baixa
+A152,tile4_37422.0,Eucalipto,alta(>=0.6),1.0,Eucalipto,1.0,21,eucalipto,eucalipto,mata,50-80,n,,alta
+A153,tile4_45129.0,Rios e Lagoas,baixa(<0.4),0.2195121951219512,Mata,0.3902439024390244,41,rios e lagoas,mata,indeterminado,,n,classe misturada,baixa
+A154,tile1_4356.0,Pastagem,alta(>=0.6),0.9090909090909092,Pastagem,0.9090909090909092,11,pastagem,pastagem,pastagem,50-80,n,classe misturada,alta
+A155,tile4_1747.0,Rios e Lagoas,baixa(<0.4),0.1818181818181818,Pastagem,0.5227272727272727,44,rios e lagoas,pastagem,mata,<50,n,classe misturada,baixa
+A156,tile4_361.0,Agricultura,media(0.4-0.6),0.5875,Agricultura,0.5875,80,agricultura,agricultura,formacao campestre,50-80,n,,media
+A157,tile1_15973.0,Mineração,alta(>=0.6),1.0,Mineração,1.0,72,mineracao,mineracao,mineracao,>80,,,alta
+A158,tile1_348.0,Formação Campestre,media(0.4-0.6),0.4545454545454545,Pastagem,0.5454545454545454,22,formacao campestre,pastagem,formacao campestre,50-80,n,,media
+A159,tile4_55723.0,Pastagem,media(0.4-0.6),0.4603174603174603,Pastagem,0.4603174603174603,63,pastagem,pastagem,mata,50-80,n,,media
+A160,tile3_43867.0,Pastagem,alta(>=0.6),0.7333333333333333,Pastagem,0.7333333333333333,15,pastagem,pastagem,formacao campestre,50-80,n,,alta
+A161,tile4_45969.0,Mata,baixa(<0.4),0.3351351351351351,Agricultura,0.3891891891891892,185,mata,agricultura,mata,50-80,n,metade mata metade agricultura,baixa
+A162,tile1_34064.0,Agricultura,alta(>=0.6),1.0,Agricultura,1.0,27,agricultura,agricultura,mata,50-80,n,,alta
+A163,tile2_21732.0,Agricultura,alta(>=0.6),0.8181818181818182,Agricultura,0.8181818181818182,33,agricultura,agricultura,indeterminado,,s,classe misturada,alta
+A164,tile3_67870.0,Solo Exposto,media(0.4-0.6),0.4576271186440678,Solo Exposto,0.4576271186440678,59,solo exposto,solo exposto,mineracao,>80,n,,media
+A165,tile3_71637.0,Mineração,baixa(<0.4),0.04,Formação Campestre,0.86,50,mineracao,formacao campestre,formacao campestre,50-80,n,,baixa
+A166,tile2_52025.0,Eucalipto,alta(>=0.6),0.9507575757575758,Eucalipto,0.9507575757575758,264,eucalipto,eucalipto,eucalipto,>80,n,,alta
+A167,tile3_35224.0,Mata,baixa(<0.4),0.3125,Agricultura,0.625,16,mata,agricultura,mata,50-80,n,,baixa
+A168,tile4_85394.0,Área Urbana,media(0.4-0.6),0.5882352941176471,Área Urbana,0.5882352941176471,34,area urbana,area urbana,solo exposto,50-80,n,,media
+A169,tile4_80867.0,Área Urbana,media(0.4-0.6),0.5263157894736842,Área Urbana,0.5263157894736842,19,area urbana,area urbana,indeterminado,,s,classe misturada,media
+A170,tile1_17834.0,Área Urbana,alta(>=0.6),1.0,Área Urbana,1.0,50,area urbana,area urbana,area urbana,50-80,n,,alta
+A171,tile2_47710.0,Rios e Lagoas,baixa(<0.4),0.0545454545454545,Eucalipto,0.6272727272727273,110,rios e lagoas,eucalipto,eucalipto,>80,n,,baixa
+A172,tile4_16517.0,Área Urbana,baixa(<0.4),0.3571428571428571,Área Urbana,0.3571428571428571,28,area urbana,area urbana,formacao campestre,<50,n,classe misturada,baixa
+A173,tile4_78932.0,Eucalipto,alta(>=0.6),0.6,Eucalipto,0.6,10,eucalipto,eucalipto,mata,>80,n,,alta
+A174,tile3_36178.0,Mineração,media(0.4-0.6),0.5294117647058824,Mineração,0.5294117647058824,17,mineracao,mineracao,formacao campestre,>80,n,,media
+A175,tile3_43156.0,Formação Campestre,media(0.4-0.6),0.4181818181818181,Mata,0.4363636363636363,55,formacao campestre,mata,mata,50-80,n,,media
+A176,tile1_46174.0,Rios e Lagoas,media(0.4-0.6),0.5454545454545454,Rios e Lagoas,0.5454545454545454,11,rios e lagoas,rios e lagoas,rios e lagoas,<50,n,classe misturada,media
+A177,tile3_44014.0,Agricultura,media(0.4-0.6),0.4336283185840708,Pastagem,0.4336283185840708,113,agricultura,pastagem,pastagem,50-80,n,imagem com nuvens,media
+A178,tile1_44008.0,Área Urbana,baixa(<0.4),0.3333333333333333,Agricultura,0.625,24,area urbana,agricultura,area urbana,>80,n,,baixa
+A179,tile4_32200.0,Afloramento Rochoso,baixa(<0.4),0.2222222222222222,Formação Campestre,0.7777777777777778,36,afloramento rochoso,formacao campestre,afloramento rochoso,>80,n,,baixa
+A180,tile1_26280.0,Afloramento Rochoso,media(0.4-0.6),0.5806451612903226,Afloramento Rochoso,0.5806451612903226,217,afloramento rochoso,afloramento rochoso,pastagem,>80,n,,media
+A181,tile1_13680.0,Rios e Lagoas,media(0.4-0.6),0.4571428571428571,Rios e Lagoas,0.4571428571428571,35,rios e lagoas,rios e lagoas,rios e lagoas,50-80,n,,media
+A182,tile1_48828.0,Formação Campestre,alta(>=0.6),0.7083333333333334,Formação Campestre,0.7083333333333334,96,formacao campestre,formacao campestre,formacao campestre,>80,n,,alta
+A183,tile4_15644.0,Solo Exposto,baixa(<0.4),0.2045454545454545,Formação Campestre,0.5909090909090909,44,solo exposto,formacao campestre,afloramento rochoso,>80,n,,baixa
+A184,tile3_44392.0,Formação Campestre,media(0.4-0.6),0.4054054054054054,Formação Campestre,0.4054054054054054,37,formacao campestre,formacao campestre,mata,50-80,n,,media
+A185,tile2_38433.0,Mineração,media(0.4-0.6),0.4615384615384615,Agricultura,0.4615384615384615,13,mineracao,agricultura,indeterminado,,s,classe misturada,media
+A186,tile4_8900.0,Mata,media(0.4-0.6),0.4128440366972477,Agricultura,0.4862385321100917,109,mata,agricultura,mata,50-80,n,,media
+A187,tile4_26694.0,Rios e Lagoas,media(0.4-0.6),0.4526315789473684,Afloramento Rochoso,0.4631578947368421,95,rios e lagoas,afloramento rochoso,rios e lagoas,>80,n,,media
+A188,tile2_17150.0,Eucalipto,baixa(<0.4),0.34375,Mata,0.65625,96,eucalipto,mata,formacao campestre,>80,n,,baixa
+A189,tile1_26571.0,Afloramento Rochoso,alta(>=0.6),0.6428571428571429,Afloramento Rochoso,0.6428571428571429,14,afloramento rochoso,afloramento rochoso,formacao campestre,>80,n,,alta
+A190,tile3_1735.0,Rios e Lagoas,baixa(<0.4),0.0222222222222222,Mineração,0.7833333333333333,180,rios e lagoas,mineracao,mineracao,50-80,s,,baixa
+A191,tile1_38908.0,Mineração,media(0.4-0.6),0.4323529411764706,Mineração,0.4323529411764706,340,mineracao,mineracao,mata,50-80,n,classe misturada,media
+A192,tile4_40835.0,Pastagem,baixa(<0.4),0.150375939849624,Formação Campestre,0.5037593984962406,133,pastagem,formacao campestre,pastagem,>80,n,,baixa
+A193,tile4_51595.0,Formação Campestre,media(0.4-0.6),0.4263565891472868,Formação Campestre,0.4263565891472868,258,formacao campestre,formacao campestre,formacao campestre,50-80,n,,media
+A194,tile3_18629.0,Mata,media(0.4-0.6),0.4025974025974026,Mata,0.4025974025974026,77,mata,mata,mata,50-80,n,,media
+A195,tile3_36458.0,Área Urbana,media(0.4-0.6),0.5306122448979592,Área Urbana,0.5306122448979592,49,area urbana,area urbana,formacao campestre,50-80,n,metade formação campestre metade área urbana,media
+A196,tile3_57684.0,Solo Exposto,alta(>=0.6),0.7029702970297029,Solo Exposto,0.7029702970297029,101,solo exposto,solo exposto,solo exposto,50-80,n,,alta
+A197,tile2_11082.0,Formação Campestre,alta(>=0.6),0.8387096774193549,Formação Campestre,0.8387096774193549,31,formacao campestre,formacao campestre,formacao campestre,>80,n,,alta
+A198,tile3_62703.0,Mineração,media(0.4-0.6),0.4594594594594595,Mineração,0.4594594594594595,37,mineracao,mineracao,formacao campestre,>80,n,,media
+A199,tile2_41747.0,Solo Exposto,baixa(<0.4),0.24,Agricultura,0.4,25,solo exposto,agricultura,mineracao,>80,s,,baixa
+A200,tile4_80083.0,Mata,media(0.4-0.6),0.4423963133640553,Mata,0.4423963133640553,217,mata,mata,mata,50-80,n,,media
+A201,tile4_32674.0,Afloramento Rochoso,alta(>=0.6),1.0,Afloramento Rochoso,1.0,21,afloramento rochoso,afloramento rochoso,afloramento rochoso,>80,n,purinho!,alta
+A202,tile3_61338.0,Eucalipto,media(0.4-0.6),0.4444444444444444,Agricultura,0.5,18,eucalipto,agricultura,mata,50-80,n,,media
+A203,tile1_49035.0,Mata,alta(>=0.6),1.0,Mata,1.0,37,mata,mata,mata,50-80,n,classe misturada,alta
+A204,tile1_45493.0,Mineração,baixa(<0.4),0.131578947368421,Pastagem,0.8421052631578947,38,mineracao,pastagem,mineracao,>80,s,"2021 misturava, 2023 pura",baixa
+A205,tile1_46998.0,Mata,media(0.4-0.6),0.5666666666666667,Mata,0.5666666666666667,60,mata,mata,mata,50-80,n,classe misturada,media
+A206,tile4_77678.0,Agricultura,baixa(<0.4),0.08,Mata,0.92,25,agricultura,mata,formacao campestre,50-80,n,,baixa
+A207,tile2_62142.0,Rios e Lagoas,alta(>=0.6),0.6756756756756757,Rios e Lagoas,0.6756756756756757,37,rios e lagoas,rios e lagoas,rios e lagoas,>80,n,,alta
+A208,tile3_64393.0,Pastagem,alta(>=0.6),0.84375,Pastagem,0.84375,32,pastagem,pastagem,pastagem,50-80,s,2023 parecia formação campestre,alta
+A209,tile2_33785.0,Área Urbana,alta(>=0.6),0.800711743772242,Área Urbana,0.800711743772242,281,area urbana,area urbana,area urbana,50-80,n,,alta
+A210,tile2_49831.0,Agricultura,alta(>=0.6),0.8387096774193549,Agricultura,0.8387096774193549,31,agricultura,agricultura,formacao campestre,>80,n,,alta
+A211,tile4_13473.0,Pastagem,alta(>=0.6),1.0,Pastagem,1.0,56,pastagem,pastagem,pastagem,>80,n,,alta
+A212,tile4_58103.0,Agricultura,media(0.4-0.6),0.5675675675675675,Agricultura,0.5675675675675675,37,agricultura,agricultura,mata,>80,n,,media
+A213,tile4_11779.0,Área Urbana,media(0.4-0.6),0.5961538461538461,Área Urbana,0.5961538461538461,104,area urbana,area urbana,area urbana,50-80,n,,media
+A214,tile2_9529.0,Agricultura,media(0.4-0.6),0.4175257731958763,Mata,0.4845360824742268,194,agricultura,mata,mata,50-80,n,,media
+A215,tile4_43572.0,Agricultura,baixa(<0.4),0.024390243902439,Mata,0.975609756097561,41,agricultura,mata,mata,>80,n,,baixa
+A216,tile2_27890.0,Agricultura,alta(>=0.6),0.8,Agricultura,0.8,30,agricultura,agricultura,formacao campestre,50-80,n,,alta
+A217,tile2_19013.0,Mata,alta(>=0.6),0.95,Mata,0.95,20,mata,mata,mata,50-80,n,,alta
+A218,tile4_101172.0,Agricultura,alta(>=0.6),0.6206896551724138,Agricultura,0.6206896551724138,29,agricultura,agricultura,formacao campestre,50-80,n,,alta
+A219,tile4_54746.0,Afloramento Rochoso,alta(>=0.6),0.9246231155778896,Afloramento Rochoso,0.9246231155778896,199,afloramento rochoso,afloramento rochoso,afloramento rochoso,>80,n,,alta
+A220,tile4_59218.0,Mata,baixa(<0.4),0.1038961038961039,Afloramento Rochoso,0.8571428571428571,77,mata,afloramento rochoso,formacao campestre,>80,s,,baixa
+A221,tile3_33898.0,Mata,alta(>=0.6),0.7105263157894737,Mata,0.7105263157894737,38,mata,mata,mata,50-80,s,"em 2021 era 100% mata, depois ficou quase metade de solo exposto",alta
+A222,tile4_3580.0,Formação Campestre,alta(>=0.6),0.6028368794326241,Formação Campestre,0.6028368794326241,141,formacao campestre,formacao campestre,formacao campestre,<50,n,,alta
+A223,tile2_74166.0,Rios e Lagoas,alta(>=0.6),0.8166666666666667,Rios e Lagoas,0.8166666666666667,60,rios e lagoas,rios e lagoas,rios e lagoas,50-80,n,,alta
+A224,tile4_35428.0,Eucalipto,media(0.4-0.6),0.4705882352941176,Mata,0.5294117647058824,17,eucalipto,mata,mata,>80,n,purinha,media
+A225,tile4_19616.0,Área Urbana,baixa(<0.4),0.0379746835443038,Pastagem,0.6708860759493671,158,area urbana,pastagem,pastagem,50-80,n,,baixa
+A226,tile4_47918.0,Formação Campestre,media(0.4-0.6),0.5555555555555556,Formação Campestre,0.5555555555555556,63,formacao campestre,formacao campestre,formacao campestre,50-80,n,,media
+A227,tile3_3990.0,Formação Campestre,baixa(<0.4),0.0780487804878048,Mata,0.751219512195122,205,formacao campestre,mata,mata,>80,n,,baixa
+A228,tile2_35862.0,Afloramento Rochoso,media(0.4-0.6),0.4565217391304347,Afloramento Rochoso,0.4565217391304347,51,afloramento rochoso,afloramento rochoso,afloramento rochoso,50-80,n,,media
+A229,tile4_15538.0,Afloramento Rochoso,media(0.4-0.6),0.5555555555555556,Afloramento Rochoso,0.5555555555555556,18,afloramento rochoso,afloramento rochoso,afloramento rochoso,>80,n,,media
+A230,tile2_70953.0,Agricultura,media(0.4-0.6),0.4814814814814814,Pastagem,0.5185185185185185,27,agricultura,pastagem,formacao campestre,>80,n,só dados 2019 e 2024,media
+A231,tile3_2327.0,Pastagem,baixa(<0.4),0.0629370629370629,Mineração,0.5244755244755245,143,pastagem,mineracao,mineracao,50-80,n,metade mineração metade formação campestre,baixa
+A232,tile3_17100.0,Pastagem,alta(>=0.6),1.0,Pastagem,1.0,90,pastagem,pastagem,pastagem,>80,n,,alta
+A233,tile1_46158.0,Solo Exposto,media(0.4-0.6),0.4411764705882353,Solo Exposto,0.4411764705882353,34,solo exposto,solo exposto,area urbana,50-80,n,,media
+A234,tile2_10597.0,Formação Campestre,alta(>=0.6),0.75,Formação Campestre,0.75,188,formacao campestre,formacao campestre,formacao campestre,50-80,n,,alta
+A235,tile1_22104.0,Afloramento Rochoso,alta(>=0.6),0.6666666666666666,Afloramento Rochoso,0.6666666666666666,195,afloramento rochoso,afloramento rochoso,afloramento rochoso,50-80,n,,alta
+A236,tile1_43531.0,Mata,alta(>=0.6),0.7,Mata,0.7,40,mata,mata,rios e lagoas,50-80,n,,alta
+A237,tile3_55709.0,Mineração,alta(>=0.6),0.9375,Mineração,0.9375,80,mineracao,mineracao,mineracao,>80,n,,alta
+A238,tile4_81906.0,Eucalipto,alta(>=0.6),1.0,Eucalipto,1.0,13,eucalipto,eucalipto,eucalipto,50-80,n,,alta
+A239,tile3_18208.0,Mata,media(0.4-0.6),0.5229357798165137,Mata,0.5229357798165137,218,mata,mata,mata,>80,n,,media
+A240,tile4_59954.0,Mineração,baixa(<0.4),0.3,Formação Campestre,0.4,20,mineracao,formacao campestre,formacao campestre,50-80,n,,baixa
+A241,tile2_15380.0,Mata,baixa(<0.4),0.1333333333333333,Eucalipto,0.8666666666666667,15,mata,eucalipto,mata,>80,n,,baixa
+A242,tile2_18717.0,Pastagem,alta(>=0.6),0.7142857142857143,Pastagem,0.7142857142857143,196,pastagem,pastagem,pastagem,>80,n,,alta
+A243,tile1_36790.0,Rios e Lagoas,media(0.4-0.6),0.5841584158415841,Rios e Lagoas,0.5841584158415841,110,rios e lagoas,rios e lagoas,rios e lagoas,>80,n,,media
+A244,tile3_17307.0,Eucalipto,media(0.4-0.6),0.4093264248704663,Eucalipto,0.4093264248704663,193,eucalipto,eucalipto,eucalipto,50-80,n,,media
+A245,tile3_23503.0,Rios e Lagoas,media(0.4-0.6),0.4589041095890411,Rios e Lagoas,0.4589041095890411,146,rios e lagoas,rios e lagoas,rios e lagoas,50-80,n,,media
+A246,tile1_30446.0,Área Urbana,alta(>=0.6),0.6491228070175439,Área Urbana,0.6491228070175439,114,area urbana,area urbana,area urbana,<50,n,,alta
+A247,tile1_4867.0,Agricultura,baixa(<0.4),0.144578313253012,Mata,0.536144578313253,168,agricultura,mata,eucalipto,50-80,n,,baixa
+A248,tile4_94109.0,Solo Exposto,media(0.4-0.6),0.5348837209302325,Solo Exposto,0.5348837209302325,43,solo exposto,solo exposto,area urbana,50-80,n,,media
+A249,tile3_13417.0,Agricultura,baixa(<0.4),0.0930232558139534,Pastagem,0.6511627906976745,172,agricultura,pastagem,pastagem,50-80,n,,baixa
+A250,tile2_64277.0,Solo Exposto,alta(>=0.6),0.75,Solo Exposto,0.75,76,solo exposto,solo exposto,mata,>80,s,virou quase tudo mineração em 2023,alta
+A251,tile1_30862.0,Afloramento Rochoso,baixa(<0.4),0.0126582278481012,Mata,0.7563291139240507,316,afloramento rochoso,mata,mata,50-80,n,outra metade rios e lagoas,baixa
+A252,tile4_14909.0,Mineração,baixa(<0.4),0.0376884422110552,Formação Campestre,0.5402010050251256,398,mineracao,formacao campestre,afloramento rochoso,50-80,n,,baixa
+A253,tile2_41666.0,Afloramento Rochoso,media(0.4-0.6),0.4680851063829787,Afloramento Rochoso,0.4680851063829787,51,afloramento rochoso,afloramento rochoso,afloramento rochoso,>80,n,,media
+A254,tile1_10768.0,Rios e Lagoas,media(0.4-0.6),0.4538461538461538,Rios e Lagoas,0.4538461538461538,130,rios e lagoas,rios e lagoas,rios e lagoas,>80,n,,media
+A255,tile2_11311.0,Rios e Lagoas,baixa(<0.4),0.0843373493975903,Mata,0.9156626506024096,166,rios e lagoas,mata,mata,>80,n,,baixa
+A256,tile3_27048.0,Mata,baixa(<0.4),0.319672131147541,Agricultura,0.5327868852459017,122,mata,agricultura,mata,<50,n,,baixa
+A257,tile1_27781.0,Área Urbana,alta(>=0.6),1.0,Área Urbana,1.0,57,area urbana,area urbana,area urbana,>80,n,,alta
+A258,tile2_35322.0,Mata,alta(>=0.6),0.9195402298850576,Mata,0.9195402298850576,87,mata,mata,mata,50-80,n,,alta
+A259,tile4_4727.0,Rios e Lagoas,media(0.4-0.6),0.4857142857142857,Rios e Lagoas,0.4857142857142857,35,rios e lagoas,rios e lagoas,rios e lagoas,50-80,n,,media
+A260,tile2_3631.0,Solo Exposto,baixa(<0.4),0.1318681318681318,Formação Campestre,0.8351648351648352,91,solo exposto,formacao campestre,afloramento rochoso,>80,n,,baixa
+A261,tile1_24335.0,Solo Exposto,alta(>=0.6),0.7142857142857143,Solo Exposto,0.7142857142857143,14,solo exposto,solo exposto,indeterminado,,,,alta
+A262,tile4_509.0,Mineração,baixa(<0.4),0.0335570469798657,Rios e Lagoas,0.929530201342282,298,mineracao,rios e lagoas,rios e lagoas,>80,n,,baixa
+A263,tile1_6773.0,Rios e Lagoas,alta(>=0.6),0.9602977667493796,Rios e Lagoas,0.9602977667493796,416,rios e lagoas,rios e lagoas,rios e lagoas,>80,n,,alta
+A264,tile3_45711.0,Afloramento Rochoso,media(0.4-0.6),0.5925925925925926,Afloramento Rochoso,0.5925925925925926,27,afloramento rochoso,afloramento rochoso,afloramento rochoso,>80,n,,media
+A265,tile4_30330.0,Eucalipto,media(0.4-0.6),0.5,Eucalipto,0.5,24,eucalipto,eucalipto,mata,50-80,n,ou euca?,media
+A266,tile1_5692.0,Solo Exposto,media(0.4-0.6),0.5666666666666667,Solo Exposto,0.5666666666666667,34,solo exposto,solo exposto,solo exposto,50-80,n,,media
+A267,tile2_3534.0,Formação Campestre,baixa(<0.4),0.2448979591836734,Pastagem,0.5510204081632653,98,formacao campestre,pastagem,formacao campestre,50-80,n,,baixa
+A268,tile3_3427.0,Pastagem,media(0.4-0.6),0.5154639175257731,Pastagem,0.5154639175257731,388,pastagem,pastagem,agricultura,50-80,n,,media
+A269,tile3_52912.0,Solo Exposto,media(0.4-0.6),0.4871794871794871,Solo Exposto,0.4871794871794871,39,solo exposto,solo exposto,formacao campestre,50-80,n,,media
+A270,tile1_43179.0,Área Urbana,alta(>=0.6),0.7391304347826086,Área Urbana,0.7391304347826086,161,area urbana,area urbana,area urbana,<50,n,,alta
+A271,tile3_36470.0,Pastagem,media(0.4-0.6),0.5930232558139535,Pastagem,0.5930232558139535,172,pastagem,pastagem,formacao campestre,50-80,n,,media
+A272,tile2_71601.0,Mata,media(0.4-0.6),0.4818181818181818,Mata,0.4818181818181818,220,mata,mata,eucalipto,50-80,n,,media
+A273,tile1_27044.0,Solo Exposto,alta(>=0.6),0.8787878787878788,Solo Exposto,0.8787878787878788,33,solo exposto,solo exposto,solo exposto,>80,n,,alta
+A274,tile3_57047.0,Agricultura,baixa(<0.4),0.36,Formação Campestre,0.44,225,agricultura,formacao campestre,formacao campestre,50-80,n,,baixa
+A275,tile2_44534.0,Pastagem,alta(>=0.6),0.9090909090909092,Pastagem,0.9090909090909092,33,pastagem,pastagem,solo exposto,50-80,n,,alta
+A276,tile2_49340.0,Pastagem,baixa(<0.4),0.2349397590361445,Mata,0.4819277108433735,166,pastagem,mata,formacao campestre,50-80,s,,baixa
+A277,tile2_75402.0,Solo Exposto,media(0.4-0.6),0.4756097560975609,Solo Exposto,0.4756097560975609,82,solo exposto,solo exposto,pastagem,>80,n,,media
+A278,tile2_3156.0,Formação Campestre,alta(>=0.6),1.0,Formação Campestre,1.0,56,formacao campestre,formacao campestre,afloramento rochoso,>80,n,,alta
+A279,tile1_18244.0,Pastagem,baixa(<0.4),0.3842105263157894,Pastagem,0.3842105263157894,190,pastagem,pastagem,formacao campestre,50-80,n,,baixa
+A280,tile2_10852.0,Mineração,baixa(<0.4),0.1733333333333333,Mata,0.8266666666666667,75,mineracao,mata,mata,>80,n,,baixa
+A281,tile4_11219.0,Pastagem,media(0.4-0.6),0.4777777777777778,Pastagem,0.4777777777777778,90,pastagem,pastagem,pastagem,50-80,n,,media
+A282,tile3_33944.0,Agricultura,media(0.4-0.6),0.4,Mata,0.4,15,agricultura,mata,mata,50-80,n,,media
+A283,tile4_71580.0,Área Urbana,baixa(<0.4),0.046875,Pastagem,0.3359375,128,area urbana,pastagem,mata,50-80,n,,baixa
+A284,tile4_34849.0,Afloramento Rochoso,baixa(<0.4),0.3033707865168539,Formação Campestre,0.5730337078651685,89,afloramento rochoso,formacao campestre,afloramento rochoso,>80,n,,baixa
+A285,tile2_44870.0,Solo Exposto,media(0.4-0.6),0.5735294117647058,Solo Exposto,0.5735294117647058,68,solo exposto,solo exposto,solo exposto,50-80,n,,media
+A286,tile2_27531.0,Eucalipto,media(0.4-0.6),0.5151515151515151,Eucalipto,0.5151515151515151,33,eucalipto,eucalipto,eucalipto,50-80,s,,media
+A287,tile4_43960.0,Afloramento Rochoso,baixa(<0.4),0.3744292237442922,Afloramento Rochoso,0.3744292237442922,219,afloramento rochoso,afloramento rochoso,afloramento rochoso,50-80,n,,baixa
+A288,tile2_41317.0,Eucalipto,baixa(<0.4),0.0134680134680134,Mata,0.9663299663299664,297,eucalipto,mata,mata,>80,n,,baixa
+A289,tile4_148.0,Mineração,media(0.4-0.6),0.5170068027210885,Mineração,0.5170068027210885,147,mineracao,mineracao,formacao campestre,50-80,n,,media
+A290,tile4_100937.0,Rios e Lagoas,baixa(<0.4),0.1830985915492957,Pastagem,0.8028169014084507,71,rios e lagoas,pastagem,pastagem,50-80,n,,baixa
+A291,tile4_2176.0,Agricultura,media(0.4-0.6),0.453125,Agricultura,0.453125,64,agricultura,agricultura,formacao campestre,>80,n,,media
+A292,tile1_6705.0,Eucalipto,media(0.4-0.6),0.5714285714285714,Eucalipto,0.5714285714285714,14,eucalipto,eucalipto,eucalipto,>80,s,,media
+A293,tile2_34265.0,Afloramento Rochoso,alta(>=0.6),0.6307692307692307,Afloramento Rochoso,0.6307692307692307,65,afloramento rochoso,afloramento rochoso,afloramento rochoso,50-80,n,,alta
+A294,tile3_46787.0,Pastagem,baixa(<0.4),0.2903225806451613,Formação Campestre,0.7096774193548387,31,pastagem,formacao campestre,pastagem,>80,n,,baixa
+A295,tile3_42361.0,Formação Campestre,media(0.4-0.6),0.4464285714285714,Formação Campestre,0.4464285714285714,56,formacao campestre,formacao campestre,formacao campestre,50-80,n,,media
+A296,tile4_9073.0,Rios e Lagoas,baixa(<0.4),0.205607476635514,Agricultura,0.5700934579439252,107,rios e lagoas,agricultura,rios e lagoas,<50,n,,baixa
+A297,tile4_5790.0,Eucalipto,baixa(<0.4),0.0362537764350453,Mata,0.7250755287009063,331,eucalipto,mata,mata,>80,n,,baixa
+A298,tile4_51489.0,Afloramento Rochoso,alta(>=0.6),0.6230769230769231,Afloramento Rochoso,0.6230769230769231,130,afloramento rochoso,afloramento rochoso,afloramento rochoso,50-80,n,,alta
+A299,tile2_6760.0,Pastagem,media(0.4-0.6),0.4220183486238532,Pastagem,0.4220183486238532,109,pastagem,pastagem,afloramento rochoso,>80,n,,media
+A300,tile4_44618.0,Mineração,alta(>=0.6),0.975,Mineração,0.975,40,mineracao,mineracao,mata,50-80,n,,alta

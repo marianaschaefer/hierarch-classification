@@ -1,0 +1,2 @@
+  d["blk"] = pd.factorize(pd.Series(bx.astype(str)+"_"+by.astype(str)))[0]
+FIM

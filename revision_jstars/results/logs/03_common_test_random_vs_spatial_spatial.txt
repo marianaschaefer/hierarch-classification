@@ -1,0 +1,2 @@
+=== 02:12:31 START python3 scripts/03_common_test_random_vs_spatial.py spatial
+FIM spatial
